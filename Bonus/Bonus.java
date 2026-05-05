@@ -25,4 +25,4 @@ class Bonus {
 
         System.out.println("Bonus = ₹" + bonus);
     }
-}
+} 
